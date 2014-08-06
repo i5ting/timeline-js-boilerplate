@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Timeline JS Example</title>
+    <title>桑世龙</title>
     <meta charset="utf-8">
     <meta name="description" content="TimelineJS example">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -32,6 +32,22 @@
         }
       </script>
       <script type="text/javascript" src="js/storyjs-embed.js"></script>
+			<script type="text/javascript" src="lib/screenfull.js"></script>
+			<script type="text/javascript" src="lib/jquery.js"></script>
+			
+			<script>
+				$(function(){
+					$('body').click(function(){
+						if (screenfull.enabled) {
+						    screenfull.request();
+						}
+					});
+						// does not require jQuery, can be used like this too:
+						// screenfull.request(document.getElementById('container'));
+
+				});
+				// Actually it's more if you want it to work in Safari, but let's not go there...
+			</script>
       <!-- END Timeline Embed-->
   </body>
 </html>

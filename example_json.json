@@ -1,76 +1,90 @@
 {
   "timeline": {
-    "headline": "Sh*t People Say",
+    "headline": "桑世龙",
     "type": "default",
-    "text": "People say stuff",
+    "text": "在生活如何不无聊，无聊中找出乐趣",
     "startDate": "2012,1,26",
     "date": [
       {
-        "startDate": "2011,12,12",
-        "endDate": "2012,1,27",
-        "headline": "Vine",
-        "text": "<p>Vine Test</p>",
+        "startDate": "2009,7,12",
+        "endDate": "2010,2,27",
+        "headline": "河北省移动经分系统(bass)",
+        "text": "<p>面试java又面数据库，之后，老板问我想不想做数据仓库，我就答应了<p><li>感谢IBM工程师，刘文涛<li>感谢杨秀文和袁俊丽",
         "asset": {
-          "media": "https://vine.co/v/b55LOA1dgJU",
+          "media": "images/hebei.png",
           "credit": "",
           "caption": ""
         }
       },
       {
-        "startDate": "2012,1,26",
-        "endDate": "2012,1,27",
-        "headline": "Sh*t Politicians Say",
-        "text": "<p>In true political fashion, his character rattles off common jargon heard from people running for office.</p>",
+        "startDate": "2009,6,26",
+        "endDate": "2009,6,27",
+        "headline": "东芝nb200上网本",
+        "text": "<p>那时候穷啊，信用卡人家都不给办。。。。</p><li>便宜,小巧<li>512m内存，连mysql,eclipse都不敢跑<li>它简直就是为优化而生",
         "asset": {
-          "media": "http://youtu.be/u4XpeU9erbg",
+          "media": "images/nb200.jpg",
           "credit": "",
           "caption": ""
         }
       },
       {
-        "startDate": "2012,1,10",
-        "headline": "Sh*t Nobody Says",
-        "text": "<p>Have you ever heard someone say “can I burn a copy of your Nickelback CD?” or “my Bazooka gum still has flavor!” Nobody says that.</p>",
+        "startDate": "2009,8,16",
+        "endDate": "2009,8,27",
+        "headline": "爱机变砖头",
+        "text": "我的笔记本是东芝nb200，一个没有光驱的上网本，我对它还是非常满意的，我本人比较喜欢linux，所以总想弄双系统（上网本装虚拟机的估计是sb，哈哈），动了一下硬盘分区，结果卷入了长达3天的黑屏事件，让我好生痛苦。人说好奇害死猫，可是如果没害死，可能是让你学到更多东西，是不是好事呢？",
         "asset": {
-          "media": "http://youtu.be/f-x8t0JOnVw",
+          "media": "images/grub.png",
           "credit": "",
           "caption": ""
         }
       },
       {
-        "startDate": "2012,1,26",
-        "headline": "Sh*t Chicagoans Say",
+        "startDate": "2008,1,10",
+        "headline": "2008年参与翻译满江红开源组织《Grails中文文档(2008年)》",
+        "text": "当时我连svn都不会，翻译完了要交给ford guo帮我上传",
+        "asset": {
+          "media": "images/Grails.png",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2009,2,26",
+				"endDate": "2009,5,27",
+        "headline": "2009年初做半年webGis",
         "text": "",
         "asset": {
-          "media": "http://youtu.be/Ofy5gNkKGOo",
+          "media": "",
           "credit": "",
           "caption": ""
         }
       },
       {
-        "startDate": "2011,12,12",
-        "headline": "Sh*t Girls Say",
-        "text": "",
+        "startDate": "2009,06,12",
+				"endDate": "2011,6,27",
+        "headline": "2年电信",
+        "text": "神州数码思特奇，主要做ETL需求开发，报表研发与设计方面工作，曾带队开发出广电行业第一套数据分析与科学决策系统，获广电总局2010科技创新奖1等奖",
         "asset": {
-          "media": "http://youtu.be/u-yLGIH7W9Y",
+          "media": "",
           "credit": "",
           "caption": "Writers & Creators: Kyle Humphrey & Graydon Sheppard"
         }
       },
       {
-        "startDate": "2012,1,4",
-        "headline": "Sh*t Broke People Say",
-        "text": "",
+        "startDate": "2010,1,4",
+				"endDate": "2010,3,17",
+        "headline": "perl etl.pm",
+        "text": "perletl.pm，针对db2的ETL调度<li>项目里重复代码太多，怎么办？<li>所有人都忍受么？<li>做一个会懒的程序员吧",
         "asset": {
-          "media": "http://youtu.be/zyyalkHjSjo",
+          "media": "images/perl.gif",
           "credit": "",
           "caption": ""
         }
       },
       {
         "startDate": "2012,1,4",
-        "headline": "Sh*t Silicon Valley Says",
-        "text": "",
+        "headline": "BI探索",
+        "text": "《ETL小组技术文档》和《ETL调度原理浅析》",
         "asset": {
           "media": "http://youtu.be/BR8zFANeBGQ",
           "credit": "",
@@ -78,49 +92,41 @@
         }
       },
       {
-        "startDate": "2011,12,25",
-        "headline": "Sh*t Vegans Say",
-        "text": "",
+        "startDate": "2010,4,25",
+				"endDate": "2010,9,27",
+        "headline": "内蒙数据分析与科学决策系统",
+        "text": "前端：决策平台和报表生成器实现，后台：指标，阀值预警，收视率分析，决策流程，报表配置和ftp脚本，是该项目的第一完成人，兼设计与实现，首次带队.<li>一个月加了10几个通宵，每天早上睡2小时<li>封装flexigrid，以子查询和SQL报表思想为主，形成并开发了一套完整的可视化报表生成系统。<li>我人生里最开心的一段",
         "asset": {
-          "media": "http://youtu.be/OmWFnd-p0Lw",
+          "media": "images/nmdss.png",
           "credit": "",
           "caption": ""
         }
       },
       {
-        "startDate": "2012,1,23",
-        "headline": "Sh*t Graphic Designers Say",
+        "startDate": "2011,1,23",
+        "headline": "自动化部署想法演进过程",
         "text": "",
         "asset": {
-          "media": "http://youtu.be/KsT3QTmsN5Q",
+          "media": "images/deploy.png",
           "credit": "",
           "caption": ""
         }
       },
       {
-        "startDate": "2011,12,30",
-        "headline": "Sh*t Wookiees Say",
-        "text": "",
+        "startDate": "2010,11,30",
+        "headline": "开始买mbp做iOS开发",
+        "text": "<li>12k买了我现在用的mbp，那时候我就想，以后我一定每个月都能买一个mbp<li>没有目标就朝钱看，努力学习更多技能，赚更多钱，这种动力也许能成就你的无量前途，当然也可能拜金!!!",
         "asset": {
-          "media": "http://youtu.be/vJpBCzzcSgA",
+          "media": "images/mbp.jpg",
           "credit": "",
           "caption": ""
         }
       },
       {
-        "startDate": "2012,1,17",
-        "headline": "Sh*t People Say About Sh*t People Say Videos",
-        "text": "",
-        "asset": {
-          "media": "http://youtu.be/c9ehQ7vO7c0",
-          "credit": "",
-          "caption": ""
-        }
-      },
-      {
-        "startDate": "2012,1,20",
-        "headline": "Sh*t Social Media Pros Say",
-        "text": "",
+        "startDate": "2011,4,20",
+				"endDate": "2011,8,27",
+        "headline": "凌云志",
+        "text": "形成100页文档《凌云志.doc》，给项目组做了一次linux培训",
         "asset": {
           "media": "http://youtu.be/eRQe-BT9g_U",
           "credit": "",
@@ -128,9 +134,10 @@
         }
       },
       {
-        "startDate": "2012,1,11",
-        "headline": "Sh*t Old People Say About Computers",
-        "text": "",
+        "startDate": "2011,8,20",
+				"endDate": "2011,8,21",
+        "headline": "aix培训，200元教材费",
+        "text": "参加IBM AIX培训，学习了AN10和AN12课程",
         "asset": {
           "media": "http://youtu.be/HRmc5uuoUzA",
           "credit": "",
@@ -138,39 +145,42 @@
         }
       },
       {
-        "startDate": "2012,1,11",
-        "headline": "Sh*t College Freshmen Say",
-        "text": "",
+        "startDate": "2012,4,11",
+        "headline": "泰然翻译小组成员",
+        "text": "泰然翻译小组成员，负责翻译和review与cocos2D相关的文档和书籍",
         "asset": {
-          "media": "http://youtu.be/rwozXzo0MZk",
+          "media": "images/tairan.png",
           "credit": "",
           "caption": ""
         }
       },
       {
-        "startDate": "2011,12,16",
-        "headline": "Sh*t Girls Say - Episode 2",
-        "text": "",
+        "startDate": "2010,10,8",
+				"endDate": "2010,10,18",
+        "headline": "山东青岛经分",
+        "text": "时间1周，部署智能报表 ,weblogic 8.1平台，部署在aix系统上，一个人独立部署完成",
         "asset": {
-          "media": "http://youtu.be/kbovd-e-hRg",
+          "media": "",
           "credit": "",
           "caption": "Writers & Creators: Kyle Humphrey & Graydon Sheppard"
         }
       },
       {
-        "startDate": "2011,12,24",
-        "headline": "Sh*t Girls Say - Episode 3 Featuring Juliette Lewis",
-        "text": "",
+        "startDate": "2010,10,24",
+        "headline": "广东联通做一体化网格营销系统",
+				"endDate": "2011,4,25",
+        "text": "主要是报表开发，SQL报表和下钻报表（struts2＋jquery）， 界面导入，任务值导入，组件化 。另外，项目里的前端相关文档基本是我一手建立的，技术手册，设计文档，规划文档等，有200页以上，从实现原理、示例到常见错误等都有较好的阐述。",
         "asset": {
-          "media": "http://youtu.be/bDHUhT71JN8",
+          "media": "images/xiazhuan.png",
           "credit": "",
           "caption": "Writers & Creators: Kyle Humphrey & Graydon Sheppard"
         }
       },
       {
-        "startDate": "2012,1,27",
-        "headline": "Sh*t Web Designers Say",
-        "text": "",
+        "startDate": "2011,4,27",
+				"endDate": "2012,1,25",
+        "headline": "广东移动iPad互动演示系统",
+        "text": "会议演示系统，分主讲和听讲二种角色，演示同步，圈画，小纸条，笔记（手写板），标注，QA，提问，投票，ppt缩略图，ppt备份下载，会议进度，时间控制，ppt提示说明，听讲界面里有一个和QQ浏览器类似的资源管理器。<li>值得说明的是这是混合型项目，比如左侧的会议列表是html实现的，而大多是OC实现，所以改写了phonegap，让它支持局部webview方式，下载用ASI，loading采用DSActivityView，xml解析，fmdb存储，使用Core Graphics画图，采用贝赛尔曲线矫正，不是很完美。进度条用MBProgressHUD，用Objective-Zip压缩解压。引入闭包，无论alertview还是asi，避免实现deletage，代码精简很多。",
         "asset": {
           "media": "http://youtu.be/MEOb_meSHhQ",
           "credit": "",
@@ -178,8 +188,8 @@
         }
       },
       {
-        "startDate": "2012,1,12",
-        "headline": "Sh*t Hipsters Say",
+        "startDate": "2012,2,12",
+        "headline": "财新网",
         "text": "No meme is complete without a bit of hipster-bashing.",
         "asset": {
           "media": "http://youtu.be/FUhrSVyu0Kw",
@@ -188,18 +198,18 @@
         }
       },
       {
-        "startDate": "2012,1,6",
-        "headline": "Sh*t Cats Say",
+        "startDate": "2013,6,4",
+        "headline": "新浪",
         "text": "No meme is complete without cats. This had to happen, obviously.",
         "asset": {
-          "media": "http://youtu.be/MUX58Vi-YLg",
+          "media": "images/sina.png",
           "credit": "",
           "caption": ""
         }
       },
       {
-        "startDate": "2012,1,21",
-        "headline": "Sh*t Cyclists Say",
+        "startDate": "2013,7,21",
+        "headline": "和marco，阿虎吃饭",
         "text": "",
         "asset": {
           "media": "http://youtu.be/GMCkuqL9IcM",
@@ -208,23 +218,23 @@
         }
       },
       {
-        "startDate": "2011,12,30",
-        "headline": "Sh*t Yogis Say",
+        "startDate": "2014,6,30",
+        "headline": "Rails Girl",
         "text": "",
         "asset": {
-          "media": "http://youtu.be/IMC1_RH_b3k",
+          "media": "images/railsgirl.jpg",
           "credit": "",
           "caption": ""
         }
       },
       {
-        "startDate": "2012,1,18",
-        "headline": "Sh*t New Yorkers Say",
+        "startDate": "2014,8,8",
+        "headline": "Q & A",
         "text": "",
         "asset": {
-          "media": "http://youtu.be/yRvJylbSg7o",
+          "media": "images/thanks.jpg",
           "credit": "",
-          "caption": "Directed and Edited by Matt Mayer, Produced by Seth Keim, Written by Eliot Glazer. Featuring Eliot and Ilana Glazer, who are siblings, not married."
+          "caption": "<center>如果渡不过这不可渡的海，将成为这海中捞不起的沙</center>"
         }
       }
     ]

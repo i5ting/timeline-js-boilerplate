@@ -86,7 +86,7 @@
         "headline": "BI探索",
         "text": "《ETL小组技术文档》和《ETL调度原理浅析》",
         "asset": {
-          "media": "http://youtu.be/BR8zFANeBGQ",
+          "media": "images/etl.png",
           "credit": "",
           "caption": "written, filmed, and edited by Kate Imbach & Tom Conrad"
         }
@@ -128,7 +128,7 @@
         "headline": "凌云志",
         "text": "形成100页文档《凌云志.doc》，给项目组做了一次linux培训",
         "asset": {
-          "media": "http://youtu.be/eRQe-BT9g_U",
+          "media": "",
           "credit": "",
           "caption": ""
         }
@@ -139,7 +139,7 @@
         "headline": "aix培训，200元教材费",
         "text": "参加IBM AIX培训，学习了AN10和AN12课程",
         "asset": {
-          "media": "http://youtu.be/HRmc5uuoUzA",
+          "media": "",
           "credit": "",
           "caption": ""
         }
@@ -182,7 +182,7 @@
         "headline": "广东移动iPad互动演示系统",
         "text": "会议演示系统，分主讲和听讲二种角色，演示同步，圈画，小纸条，笔记（手写板），标注，QA，提问，投票，ppt缩略图，ppt备份下载，会议进度，时间控制，ppt提示说明，听讲界面里有一个和QQ浏览器类似的资源管理器。<li>值得说明的是这是混合型项目，比如左侧的会议列表是html实现的，而大多是OC实现，所以改写了phonegap，让它支持局部webview方式，下载用ASI，loading采用DSActivityView，xml解析，fmdb存储，使用Core Graphics画图，采用贝赛尔曲线矫正，不是很完美。进度条用MBProgressHUD，用Objective-Zip压缩解压。引入闭包，无论alertview还是asi，避免实现deletage，代码精简很多。",
         "asset": {
-          "media": "http://youtu.be/MEOb_meSHhQ",
+          "media": "",
           "credit": "",
           "caption": ""
         }
@@ -190,9 +190,9 @@
       {
         "startDate": "2012,2,12",
         "headline": "财新网",
-        "text": "No meme is complete without a bit of hipster-bashing.",
+        "text": "财新网ios客户端",
         "asset": {
-          "media": "http://youtu.be/FUhrSVyu0Kw",
+          "media": "",
           "credit": "",
           "caption": "Written, Directed, Conceptualized and Performed by Carrie Valentine and Jessica Katz"
         }
@@ -200,7 +200,7 @@
       {
         "startDate": "2013,6,4",
         "headline": "新浪",
-        "text": "No meme is complete without cats. This had to happen, obviously.",
+        "text": "新浪财经.",
         "asset": {
           "media": "images/sina.png",
           "credit": "",
@@ -212,7 +212,7 @@
         "headline": "和marco，阿虎吃饭",
         "text": "",
         "asset": {
-          "media": "http://youtu.be/GMCkuqL9IcM",
+          "media": "",
           "credit": "",
           "caption": "Video script, production, and editing by Allen Krughoff of Hardcastle Photography"
         }
@@ -220,7 +220,7 @@
       {
         "startDate": "2014,6,30",
         "headline": "Rails Girl",
-        "text": "",
+        "text": "多参与社区活动和开源项目",
         "asset": {
           "media": "images/railsgirl.jpg",
           "credit": "",
